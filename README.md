@@ -51,7 +51,8 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 > - Diagnosis and Service Type Insights  
 > - Geographic Billing by City
 
-![Dashboard Preview](./dashboard.JPG)
+![Dashboard Preview]![dashboard](https://github.com/user-attachments/assets/31d1e1d1-6aac-44ae-b9ee-11c269f59b16)
+
 
 ---
 
@@ -90,13 +91,15 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 # 🧩 Key Visuals
 
 ### 🔗 Power Query View
-> *(Add image here once available)*
+> *![Power Qquery](https://github.com/user-attachments/assets/a663ed55-8516-425e-88f4-f478a9df35ac)*
 
 ### 🔗 Data Model View
-> *(Add image here once available)*
+> *![data Model](https://github.com/user-attachments/assets/8dce0872-27df-4e56-85a5-14cd5d966bef)*
 
 ### 🔗 Dashboard Visual
-![Dashboard](./2924.JPG)
+![2924](https://github.com/user-attachments/assets/f16bbe37-552a-4050-8b55-c985595c6ac9)
+
+![2025](https://github.com/user-attachments/assets/90a1cc9a-57c6-430b-aea3-fe24614a03ce)
 
 ---
 
@@ -104,7 +107,7 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 | File                        | Description                     |
 |-----------------------------|----------------------------------|
-| `Dataset`                  | [Download CSV](#)                |
+| `Dataset`                  | [Download CSV]()                |
 | `Power BI File (.pbix)`    | [Download PBIX](#)               |
 | `Full Portfolio Report`    | [Download PDF](#) *(coming soon)*|
 
