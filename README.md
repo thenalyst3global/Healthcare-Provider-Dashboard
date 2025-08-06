@@ -108,8 +108,9 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 | File                        | Description                     |
 |-----------------------------|----------------------------------|
 | `Dataset`                  | [Download Healthcare Provider Dataset (ZIP)](https://github.com/user-attachments/files/21640877/Healthcare.Provide.Dataset.zip)                |
-| `Power BI File (.pbix)`    | [Download PBIX](#)               |
-| `Full Portfolio Report`    | [Download PDF](#) *(coming soon)*|
+| `Power BI File (.pbix)`    | [Download PBIX]()               |
+| `Full Portfolio Report`    | [Download PDF](https://github.com/user-attachments/files/21641583/Healthcare.Provider.Dashboard.pdf)
+) *(coming soon)*|
 
 ---
 
