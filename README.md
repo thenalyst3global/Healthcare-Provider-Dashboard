@@ -117,6 +117,6 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 **Bernard Joseph**  
 Business Intelligence Analyst  
-[LinkedIn](www.linkedin.com/in/bernard-joseph-oyakhilome) • [Email](jozefbernardonline@gmail.com) • [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/bernard-joseph-oyakhilome) • [Email](jozefbernardonline@gmail.com) • [Portfolio](https://thenalyst3global.github.io/Healthcare-Provider-Dashboard/)
 
 ---
