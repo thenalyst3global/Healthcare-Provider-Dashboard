@@ -17,7 +17,7 @@ The dashboard includes filtering capabilities by patient race, year, quarter, an
 
 ---
 
-## 📂 Table of Contents
+## Table of Contents
 1. [Project Overview](#-project-overview)  
 2. [Dataset Structure](#-dataset-structure)  
 3. [Dashboard Preview](#-dashboard-preview)  
@@ -43,7 +43,7 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 > - Multi-year Comparison: 2024 vs 2025  
 > - Filter by Patient Race, Time Period  
@@ -56,7 +56,7 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-## 📈 Insights & Observations
+## Insights & Observations
 
 - **Billing increased** from **£1M in 2024** to **£3M in 2025**.
 - **CT Scans** became the most billed procedure in 2025.
@@ -68,7 +68,7 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Increase **resource allocation** to Cardiology and Orthopedics.
 - Address **rising CT Scan costs** with contract renegotiation.
@@ -78,7 +78,7 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-## 👥 Team Goals
+## Team Goals
 
 | Team            | Objective                                                                 |
 |-----------------|---------------------------------------------------------------------------|
@@ -88,36 +88,35 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-# 🧩 Key Visuals
+# Key Visuals
 
-### 🔗 Power Query View
+### Power Query View
 > *![Power Qquery](https://github.com/user-attachments/assets/a663ed55-8516-425e-88f4-f478a9df35ac)*
 
-### 🔗 Data Model View
+### Data Model View
 > *![data Model](https://github.com/user-attachments/assets/8dce0872-27df-4e56-85a5-14cd5d966bef)*
 
-### 🔗 Dashboard Visual
+### Dashboard Visual
 ![2924](https://github.com/user-attachments/assets/f16bbe37-552a-4050-8b55-c985595c6ac9)
 
 ![2025](https://github.com/user-attachments/assets/90a1cc9a-57c6-430b-aea3-fe24614a03ce)
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | File                        | Description                     |
 |-----------------------------|----------------------------------|
 | `Dataset`                  | [Download Healthcare Provider Dataset (ZIP)](https://github.com/user-attachments/files/21640877/Healthcare.Provide.Dataset.zip)                |
-| `Power BI File (.pbix)`    | [Download PBIX]()               |
+| `Power BI File (.pbix)`    | [Download PBIX](https://github.com/thenalyst3global/Healthcare-Provider-Dashboard/blob/main/healthcare.pbix)               |
 | `Full Portfolio Report`    | [Download PDF](https://github.com/user-attachments/files/21641583/Healthcare.Provider.Dashboard.pdf)
-) *(coming soon)*|
 
 ---
 
-## 📣 Author
+## Author
 
 **Bernard Joseph**  
 Business Intelligence Analyst  
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/bernard-joseph-oyakhilome) • [Email](jozefbernardonline@gmail.com) • [Portfolio](#)
 
 ---
