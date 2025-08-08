@@ -18,13 +18,12 @@ The dashboard includes filtering capabilities by patient race, year, quarter, an
 ---
 
 ## Table of Contents
-1. [Project Overview](#-project-overview)  
-2. [Dataset Structure](#-dataset-structure)  
-3. [Dashboard Preview](#-dashboard-preview)  
-4. [Insights & Observations](#-insights--observations)  
-5. [Recommendations](#-recommendations)  
-6. [Team Goals](#-team-goals)  
-7. [Key Visuals](#-key-visuals)
+1. [Project Overview](#project-overview)  
+2. [Dataset Structure](#dataset-structure)  
+3. [Dashboard Preview](#dashboard-preview)  
+4. [Insights & Recommendations](#insights--recommendations)  
+5. [Stakeholder Impact](#stakeholder-impact)  
+6. [Key Visuals](#key-visuals)
 
 ---
 
@@ -65,16 +64,6 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 | **Provider & Department Performance** | Provider efficiency varied by as much as **38%** between top and bottom performers | Use performance dashboards to conduct targeted reviews and provide performance-based support or training. |
 | **Procedure Utilization** | Over **22%** of procedures showed low improvement outcomes and were frequently repeated | Review and adjust treatment protocols to reduce unnecessary costs and improve care effectiveness. |
 | **Regional Insights** | One facility had **34% higher inflow** but ranked lowest in service outcomes | Evaluate resource allocation, infrastructure, and staff capacity for specific underperforming locations. |
-
----
-
-## Recommendations
-
-- Increase **resource allocation** to Cardiology and Orthopedics.
-- Address **rising CT Scan costs** with contract renegotiation.
-- Develop **chronic disease management programs** for Asthma & Hypertension.
-- Reassess **insurance policy impacts** on patient out-of-pocket costs.
-- Expand services in **high-billing cities** to improve access and reduce strain.
 
 ---
 
