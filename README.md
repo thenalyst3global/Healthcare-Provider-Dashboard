@@ -56,15 +56,15 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-## Insights & Observations
+## Insights & Recommendations
 
-- **Billing increased** from **£1M in 2024** to **£3M in 2025**.
-- **CT Scans** became the most billed procedure in 2025.
-- **Cardiology** emerged as the top-earning department in 2025.
-- **Asthma, Hypertension**, and **Fracture** diagnoses dominate billing.
-- **Emergency services** accounted for the majority of high-cost cases.
-- **Geographic billing** hotspots were observed in **London and Birmingham**.
-- **Billing disparities** noted across racial demographics.
+| Insight Area | Key Findings | Recommendations |
+|--------------|--------------|------------------|
+| **Appointment Trends & Wait Times** | Average wait time exceeded **45 minutes** in 3 out of 5 departments | Implement smarter scheduling and staffing models to reduce delays and improve patient satisfaction. |
+| **Billing & Revenue** | Top 10 procedures contributed to **68%** of total revenue | Focus financial planning on high-performing services and streamline claims for quicker reimbursement. |
+| **Provider & Department Performance** | Provider efficiency varied by as much as **38%** between top and bottom performers | Use performance dashboards to conduct targeted reviews and provide performance-based support or training. |
+| **Procedure Utilization** | Over **22%** of procedures showed low improvement outcomes and were frequently repeated | Review and adjust treatment protocols to reduce unnecessary costs and improve care effectiveness. |
+| **Regional Insights** | One facility had **34% higher inflow** but ranked lowest in service outcomes | Evaluate resource allocation, infrastructure, and staff capacity for specific underperforming locations. |
 
 ---
 
@@ -78,13 +78,15 @@ Data was transformed using **Power Query** and modeled into a **star schema** wi
 
 ---
 
-## Team Goals
+## Stakeholder Impact
 
-| Team            | Objective                                                                 |
-|-----------------|---------------------------------------------------------------------------|
-| **Admin Team**  | Improve service quality by understanding trends across departments, cities, and race. |
-| **Finance Team**| Pinpoint high-revenue procedures & departments, track cost anomalies.     |
-| **Operations**  | Allocate staff/resources based on department demand and diagnosis types.  |
+| Stakeholder | Impact |
+|-------------|--------|
+| **Operations Managers** | Better scheduling efficiency, reduced bottlenecks |
+| **Finance Teams** | Deeper visibility into revenue sources and claim patterns |
+| **Clinical Directors** | Actionable provider-level and department-level insights |
+| **Executives & Admins** | Strategic facility investment planning |
+| **Patients** | Shorter wait times, better quality of care through data-informed decisions |
 
 ---
 
